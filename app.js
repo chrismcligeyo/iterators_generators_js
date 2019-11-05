@@ -23,7 +23,7 @@
 // console.log(names.next().value); //undefined. iterator done.
 
 // Generator Example. functions that can be paused and yield multiple values
-// function* sayNames() {
+// function* sayNames() { //* tells javascript that this is a generator function and not just a function
 //   yield 'Jack';
 //   yield 'Jill';
 //   yield 'John';
