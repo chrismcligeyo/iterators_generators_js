@@ -31,6 +31,7 @@
 
 // const name = sayNames();
 
+// console.log(name.next()); //{value: jack, done:  false}
 // console.log(name.next().value); //jack
 // console.log(name.next().value); //jill
 // console.log(name.next().value); //john
